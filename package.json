@@ -1,0 +1,10 @@
+{
+  "name": "dinner",
+  "version": "1.0.0",
+  "description": "Cooking SOLID code with JavaScript",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "some-dependency": "^1.0.0"
+  }
+}
